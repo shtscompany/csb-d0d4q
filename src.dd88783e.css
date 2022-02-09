@@ -1,0 +1,2 @@
+#botE,#botS,#botW,#midE,#midW,#topE,#topLineSquare,#topN,#topW{z-index:9000;background-color:#473939}#botE,#botS,#botW,#frame,#midE,#midW,#topE,#topLineSquare,#topN,#topW{position:absolute;left:-10px;top:-10px;width:8px;height:8px;border:1px solid #000}#topW{cursor:nw-resize}#topN{cursor:n-resize}#topE{cursor:ne-resize}#midW{cursor:w-resize}#midE{cursor:e-resize}#botW{cursor:sw-resize}#botS{cursor:s-resize}#botE{cursor:se-resize}#topLine{position:absolute;height:20px;border-left:1px solid #777;left:-5px;top:-5px}
+/*# sourceMappingURL=/csb-d0d4q/src.dd88783e.css.map */
